@@ -1,0 +1,1 @@
+import"./SlamText.astro_astro_type_script_index_0_lang.DtFOkkv9.js";import"./EngineeringMap.astro_astro_type_script_index_0_lang.CorvbQEx.js";function n(){const t=document.querySelector(".dictionary-container");t&&t.addEventListener("click",()=>{window.dispatchEvent(new CustomEvent("pill:expand"))})}document.addEventListener("astro:page-load",n);n();
