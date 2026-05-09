@@ -1,0 +1,1 @@
+import"./hoisted.DtFOkkv9.js";import"./hoisted.C2MCWKtW.js";document.addEventListener("DOMContentLoaded",()=>{const o=document.getElementById("trigger-cookie-modal"),e=document.getElementById("cookie-preferences-dialog");o?.addEventListener("click",()=>{e?e.showModal():console.error("Cookie preferences dialog not found in the DOM.")})});
